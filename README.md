@@ -10,7 +10,7 @@
 <br>
 
 ### Who's this guy? 👀
-I'm Mohammedsohil Shaikh, a 4th year undergrad currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
+I'm Mohammedsohil Shaikh, a 4th year undergraduate currently persuing my Bachelors in Computer Science from India. Having tried various different fields and branches of CS, I fell in love with Machine Learning and A.I. in general. 
 
 ### What does he do? 💬
 I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep Learning algorithms and libraries.
