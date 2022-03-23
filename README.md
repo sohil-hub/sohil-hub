@@ -18,7 +18,7 @@ I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep
 
 ## My arsenal of languages and tools 🎯
 
-###Languages
+### Languages
 <p float="left">
 <img alt="Python" width="40px" src="logo/python.svg" />
 <img alt="Java" width="40px" src="logo/java.svg" />
