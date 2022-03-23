@@ -18,13 +18,13 @@ I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep
 
 ### My arsenal of languages and tools 🎯
 <p float="left">
-<img alt="python" width="40px" src="logo/python.svg" />
-
-<img alt="tensorflow" width="35px" src="logo/tensorflow.svg" />
-<img alt="pytorch" width="35px" src="logo/pytorch.svg" />
+<img alt="Python" width="40px" src="logo/python.svg" />
+<img alt="Java" width="40px" src="logo/java.svg" />
+<img alt="Tensorflow" width="35px" src="logo/tensorflow.svg" />
+<img alt="Pytorch" width="35px" src="logo/pytorch.svg" />
 <img alt="sklearn" width="40px" src="logo/sklearn.svg" />
-<img alt="keras" width="40px" src="logo/keras.svg" />
-<img alt="streamlit" width="40px" src="logo/streamlit.svg">
-<img alt="git" width="40px" src="logo/git.svg" />
-<img alt="jupyter" width="40px" src="logo/notebook.svg" />
+<img alt="Keras" width="40px" src="logo/keras.svg" />
+<img alt="Streamlit" width="40px" src="logo/streamlit.svg">
+<img alt="Git" width="40px" src="logo/git.svg" />
+<img alt="Jupyter" width="40px" src="logo/notebook.svg" />
 </p>
