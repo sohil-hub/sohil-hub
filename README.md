@@ -25,7 +25,7 @@ I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep
 <img alt="php" width="40px" src="logo/php.svg" />
 <img alt="Javascript" width="40px" src="logo/javascript.svg" />
   
-### Tools and Frameworks
+### ML Tools and Frameworks
 <p float="left">
 <img alt="Tensorflow" width="35px" src="logo/tensorflow.svg" />
 <img alt="Pytorch" width="35px" src="logo/pytorch.svg" />
@@ -34,4 +34,16 @@ I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep
 <img alt="Streamlit" width="40px" src="logo/streamlit.svg">
 <img alt="Git" width="40px" src="logo/git.svg" />
 <img alt="Jupyter" width="40px" src="logo/notebook.svg" />
+  
+### Web Frameworks and Databases
+<p float="left">
+<img alt="HTML" width="35px" src="logo/html-5.svg" />
+<img alt="CSS" width="35px" src="logo/css-3.svg" />
+<img alt="Django" width="35px" src="logo/html-5.svg" />
+<img alt="Flask" width="35px" src="logo/flask.svg" />  
+<img alt="React" width="35px" src="logo/html-react.svg" />  
+<img alt="Bootstrap" width="35px" src="logo/bootstrap.svg" />
+<img alt="MongoDB" width="35px" src="logo/mongodb.svg" />
+<img alt="MySQL" width="35px" src="logo/mysql.svg" />
+<img alt="SQLite" width="35px" src="logo/sqlite.svg" />
 </p>
