@@ -16,10 +16,17 @@ I'm Mohammedsohil Shaikh, a 4th year undergraduate currently persuing my Bachelo
 I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep Learning algorithms and libraries.
 
 
-### My arsenal of languages and tools 🎯
+## My arsenal of languages and tools 🎯
+
+###Languages
 <p float="left">
 <img alt="Python" width="40px" src="logo/python.svg" />
 <img alt="Java" width="40px" src="logo/java.svg" />
+<img alt="php" width="40px" src="logo/php.svg" />
+<img alt="Javascript" width="40px" src="logo/javascript.svg" />
+  
+### Tools and Frameworks
+<p float="left">
 <img alt="Tensorflow" width="35px" src="logo/tensorflow.svg" />
 <img alt="Pytorch" width="35px" src="logo/pytorch.svg" />
 <img alt="sklearn" width="40px" src="logo/sklearn.svg" />
