@@ -39,9 +39,9 @@ I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep
 <p float="left">
 <img alt="HTML" width="35px" src="logo/html-5.svg" />
 <img alt="CSS" width="35px" src="logo/css-3.svg" />
-<img alt="Django" width="35px" src="logo/html-5.svg" />
+<img alt="Django" width="35px" src="logo/django.svg" />
 <img alt="Flask" width="35px" src="logo/flask.svg" />  
-<img alt="React" width="35px" src="logo/html-react.svg" />  
+<img alt="React" width="35px" src="logo/react.svg" />  
 <img alt="Bootstrap" width="35px" src="logo/bootstrap.svg" />
 <img alt="MongoDB" width="35px" src="logo/mongodb.svg" />
 <img alt="MySQL" width="35px" src="logo/mysql.svg" />
