@@ -10,11 +10,10 @@
 <br>
 
 ### Who's this guy? 👀
-I'm Mohammedsohil Shaikh, Completed my Bachelors in Computer Science from India. Have tried various different fields and branches of CS, I fall in love with Machine Learning and A.I. in general. 
+Mohammedsohil Shaikh, from India, has earned a bachelor's degree in computer science. Having explored a number of CS specialties, I have fallen head over heels for machine learning and artificial intelligence in general.
 
 ### What does he do? 💬
-I'm a Machine Larning Enthusiast and love learning new Machine Learning and Deep Learning algorithms and libraries.
-
+I enjoy studying new Machine Learning and Deep Learning algorithms and frameworks because I'm a machine learning enthusiast.
 
 ## My arsenal of languages and tools 🎯
 
